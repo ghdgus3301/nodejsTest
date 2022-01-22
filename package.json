@@ -10,6 +10,7 @@
   "author": "hong-hyun",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.19.1",
     "express": "^4.17.2",
     "mogoose": "^0.0.1-security",
     "mongoose": "^6.1.7"
